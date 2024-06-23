@@ -1,0 +1,7 @@
+{
+  "parent": "circus_deco:block/circus_cloth",
+  "textures": {
+    "end": "circus_deco:block/green_circus_cloth_top",
+    "side": "circus_deco:block/green_circus_cloth_side"
+  }
+}

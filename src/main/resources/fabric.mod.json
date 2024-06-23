@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "circus_deco",
+	"version": "${version}",
+	"name": "Circus Deco",
+	"description": "Adds different circus decoration blocks. Made for ModFest: Carnival",
+	"authors": [
+		"OliviaTheVampire",
+		"noodlescript",
+		"xTimeToPanic"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/project/circusdeco",
+		"sources": "https://github.com/oliviathevampire/circusdeco"
+	},
+	"license": "LGPLv3 - ARR-Assets",
+	"icon": "assets/circus_deco/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.oliviathevampire.circus_deco.CircusDeco"
+		],
+		"fabric-datagen": [
+			"com.oliviathevampire.circus_deco.CircusDecoDataGenerator"
+		]
+	},
+	"mixins": [],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21-",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

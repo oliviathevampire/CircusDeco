@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "circus_deco:block/blue_circus_cloth",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "circus_deco:block/blue_circus_cloth"
+    },
+    "axis=z": {
+      "model": "circus_deco:block/blue_circus_cloth",
+      "x": 90
+    }
+  }
+}

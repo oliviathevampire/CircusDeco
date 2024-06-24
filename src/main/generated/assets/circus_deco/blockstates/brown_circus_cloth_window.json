@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "circus_deco:block/brown_circus_cloth_window",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "circus_deco:block/brown_circus_cloth_window"
+    },
+    "axis=z": {
+      "model": "circus_deco:block/brown_circus_cloth_window",
+      "x": 90
+    }
+  }
+}

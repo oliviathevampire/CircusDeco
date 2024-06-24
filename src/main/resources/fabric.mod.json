@@ -22,6 +22,9 @@
 		],
 		"fabric-datagen": [
 			"com.oliviathevampire.circus_deco.CircusDecoDataGenerator"
+		],
+		"client": [
+			"com.oliviathevampire.circus_deco.client.CircusDecoClient"
 		]
 	},
 	"mixins": [],

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "l": {
+      "item": "minecraft:light_blue_wool"
+    }
+  },
+  "pattern": [
+    "lWl",
+    "WGW",
+    "lWl"
+  ],
+  "result": {
+    "count": 8,
+    "id": "circus_deco:light_blue_circus_cloth_window"
+  }
+}
